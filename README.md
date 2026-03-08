@@ -11,7 +11,7 @@ This project analyzes loan applicant data to **identify credit risk patterns and
 - **Identify borrower segments with higher default probability**
 - **Support better data-driven lending decisions**
 
----
+
 
 ## **Business Problem**
 Banks need to clearly understand:
@@ -25,7 +25,7 @@ Without proper analysis, banks may approve loans to **high-risk borrowers**, inc
 
 This dashboard helps banks **analyze loan performance and identify risky lending segments.**
 
----
+
 
 ## **Dataset**
 Source: **Kaggle – Credit Risk Dataset**
@@ -37,7 +37,7 @@ Source: **Kaggle – Credit Risk Dataset**
 The dataset contains borrower demographics, financial attributes, loan information, credit history, and loan repayment status.  
 These variables help analyze **credit risk patterns and borrower repayment behavior**.
 
----
+
 
 ## **Data Cleaning & Analysis (Python)**
 
@@ -67,7 +67,7 @@ Data preprocessing and exploratory analysis were performed using **Python**.
 **4. Save Cleaned Dataset**
 - Cleaned dataset exported for use in **Power BI dashboard**
 
----
+
 
 ## **Tools Used**
 
@@ -77,13 +77,12 @@ Data preprocessing and exploratory analysis were performed using **Python**.
 - **Power BI** – Interactive dashboard and reporting  
 - **DAX** – Measures and calculated metrics
 
----
+
 
 # **Power BI Dashboard**
 
 A **three-page interactive dashboard** was developed to analyze loan performance and borrower risk.
 
----
 
 ## **1. Loan Portfolio Overview**
 
@@ -102,7 +101,6 @@ Understand the **overall health of the bank’s loan portfolio.**
 
 This page provides a **high-level summary of lending performance.**
 
----
 
 ## **2. Risk Analysis**
 
@@ -120,7 +118,7 @@ Identify **high-risk borrower segments**.
 
 This page helps banks **detect risky lending segments before approving loans.**
 
----
+
 
 ## **3. Customer & Financial Insights**
 
@@ -138,7 +136,7 @@ Understand **borrower behavior and financial patterns.**
 
 This page helps banks improve **loan product strategy and pricing decisions.**
 
----
+
 
 # **Key Insights**
 
@@ -147,7 +145,7 @@ This page helps banks improve **loan product strategy and pricing decisions.**
 - Some loan purposes have **higher risk compared to others**
 - **Income stability and employment length influence repayment ability**
 
----
+
 
 # **Business Impact**
 
@@ -159,10 +157,3 @@ This project helps financial institutions:
 - **Make data-driven lending decisions**
 - **Optimize loan approval strategies**
 
----
-
-# **Author**
-
-**Janhavi Lele**  
-Aspiring **Data Analyst**  
-Skills: **Power BI | Python | Data Analysis | Data Visualization**
