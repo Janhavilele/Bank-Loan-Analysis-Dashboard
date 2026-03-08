@@ -157,3 +157,12 @@ This project helps financial institutions:
 - **Make data-driven lending decisions**
 - **Optimize loan approval strategies**
 
+# ** Screenshots**
+
+![Dashboard Screenshot](https://github.com/Janhavilele/Bank-Loan-Analysis-Dashboard/blob/main/Overview%20Page.PNG)
+
+![Dashboard Screenshot](https://github.com/Janhavilele/Bank-Loan-Analysis-Dashboard/blob/main/Loan%20Risk%20Analysis.PNG)
+
+![Dashboard Screenshot](https://github.com/Janhavilele/Bank-Loan-Analysis-Dashboard/blob/main/Customer%20Insights.PNG)
+
+
