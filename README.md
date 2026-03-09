@@ -1,4 +1,4 @@
-# **Credit Risk Analysis & Loan Default Prediction**
+# **Credit Risk Analysis & Loan Default Insights**
 
 ## **Project Overview**
 Banks issue thousands of loans, but not every borrower repays on time. Identifying **high-risk borrowers** early helps financial institutions reduce financial losses and improve lending strategies.
