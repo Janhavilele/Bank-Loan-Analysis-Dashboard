@@ -116,7 +116,9 @@ Identify **high-risk borrower segments**.
 ### **Risk Segmentation Logic**
 
 Green → Default Rate < 15% (Low Risk)
+
 Yellow → Default Rate 15–25% (Moderate Risk)
+
 Red → Default Rate > 25% (High Risk)
 
 ### **Business Question**
