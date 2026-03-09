@@ -113,6 +113,12 @@ Identify **high-risk borrower segments**.
 - How **loan purpose influences default probability**
 - Relationship between **income and loan amount**
 
+### **Risk Segmentation Logic**
+
+Green → Default Rate < 15% (Low Risk)
+Yellow → Default Rate 15–25% (Moderate Risk)
+Red → Default Rate > 25% (High Risk)
+
 ### **Business Question**
 **“Which borrowers are more likely to default?”**
 
